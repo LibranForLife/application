@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/libranarchitect/1c58f0e9-868b-450e-a0bc-4f0a833b6ede/6ed16f01-81aa-4634-bedd-00836b36ff05/_apis/work/boardbadge/fc1c2de4-59f0-4298-9b93-a10e8aba25fb)](https://dev.azure.com/libranarchitect/1c58f0e9-868b-450e-a0bc-4f0a833b6ede/_boards/board/t/6ed16f01-81aa-4634-bedd-00836b36ff05/Microsoft.RequirementCategory)
